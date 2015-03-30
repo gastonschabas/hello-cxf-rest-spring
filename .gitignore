@@ -1,0 +1,21 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Backed up Files #
+*.*~
+
+# Config Files #
+**/.project
+.project
+**/.classpath
+.classpath
+**/.settings
+.settings
+**/.metadata
+.metadata
+
+# Compiled Files #
+**/target
+*.class
